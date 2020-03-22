@@ -1,0 +1,38 @@
+/****************************************TAG SELECTORS*********************************************/
+
+body{
+  background-color: #ecfbfc;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 7px;
+  width: 10%;
+}
+
+h1{
+  color: #66bfbf;
+  font-family: cursive;
+}
+
+h3{
+  color: #66bfbf;
+  font-family: cursive;
+}
+
+label{
+  color: #4f3961;
+  font-family: cursive;
+}
+
+marquee{
+  font-family: cursive;
+  font-size: 40;
+}
+/****************************************CLASS SELECTORS*************************************************/
+
+.inst{
+  color: #204051;
+}
